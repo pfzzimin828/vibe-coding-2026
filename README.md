@@ -6,9 +6,13 @@
 바이브 코딩의 개념과 특징을 소개하기 위해 제작한 웹 프레젠테이션 프로젝트입니다. HTML, CSS, JavaScript를 활용하여 구현하였으며, 별도의 설치 없이 웹 브라우저에서 실행할 수 있습니다.
 
 🔗 프로젝트 링크
+
 개인 Repository :  [박지민 Repository](https://github.com/pfzzimin828/vibe-coding-2026)
+
 개인 배포 페이지 : [박지민 배포 페이지 ](https://pfzzimin828.github.io/vibe-coding-2026/) 
+
 팀 Repository : [4팀 Repository](https://github.com/toby0033-afk/vibe-coding-2026-team)
+
 팀 배포 페이지 : [ 4팀 배포 페이지](https://toby0033-afk.github.io/vibe-coding-2026-team/)
 
 📌 프로젝트 개요
@@ -66,10 +70,4 @@ HTML과 CSS를 활용하여 이화여자대학교의 UI(University Identity) 시
 과제 안내문과 PDF 문서를 분석하여 주요 요구사항을 정리하고 제출 전 점검을 지원하는 AI 도구입니다.
 
 배포 링크 : https://aistudio.google.com/apps/6f0716ba-3707-4944-a5cb-c063399309e2?showPreview=true&showAssistant=true
-
-🦙 llamafile과 Ollama 비교 프레젠테이션
-
-로컬 AI 실행 도구인 llamafile과 Ollama의 특징, 사용 방법, 장단점을 비교·분석한 발표 자료입니다.
-발표 자료 : PPT 링크
-
 
