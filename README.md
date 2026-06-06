@@ -55,7 +55,7 @@ HTML과 CSS를 활용하여 이화여자대학교의 UI(University Identity) 시
 
 🎰 바카라 웹 게임
 
-바카라 규칙을 기반으로 제작한 임으로 플레이어와 뱅커의 점수를 계산하여 결과를 확인할 수 있습니다.
+바카라 규칙을 기반으로 제작한 게임으로 플레이어와 뱅커의 점수를 계산하여 결과를 확인할 수 있습니다.
 
 배포 링크 : https://glowing-rolypoly-ff73ea.netlify.app 
 
